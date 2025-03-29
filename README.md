@@ -50,6 +50,7 @@ print(f"Variance is : {var}")
 ```
 ## CACULATION:
 ![WhatsApp Image 2025-03-29 at 09 36 35_e5d3e245](https://github.com/user-attachments/assets/ba419bc7-1f4c-4d0c-aaa4-cab0f583e9e3)
+![WhatsApp Image 2025-03-29 at 19 32 54_31ece45b](https://github.com/user-attachments/assets/b8d280eb-9405-454a-b6a8-fffe5d8b5239)
 ![WhatsApp Image 2025-03-29 at 09 33 11_10da1b9d](https://github.com/user-attachments/assets/d6a56e97-7e1b-444b-9f4b-27a5c510ea63)
 ## OUTPUT:
 ![WhatsApp Image 2025-03-29 at 08 34 03_300920c3](https://github.com/user-attachments/assets/ccf0b692-d161-4cf8-9d95-65f7cba57049)
